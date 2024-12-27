@@ -8,6 +8,6 @@
 ### Summary of the Research:
 The paper discusses a computer vision-based approach to monitor road lanes effectively, improving traffic management and safety.
 
- Published Research Paper on Google Scholar: Title of Paper
+ Published Research Paper on Google Scholar: 
 
 📄 [Published Research Paper on Google Scholar]( https://ieeexplore.ieee.org/abstract/document/10763334/)
